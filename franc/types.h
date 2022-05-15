@@ -5,6 +5,8 @@
 #ifndef FRANC_TYPES
 #define FRANC_TYPES
 
+#define néant       void
+
 #define caractère   char
 #define caractères  caractère
 
@@ -36,5 +38,11 @@
 #define constante   constant
 #define constants   constant
 #define constantes  constant
+
+#define statique    static
+#define statiques   statique
+
+// volatile
+#define volatiles   volatile
 
 #endif // FRANC_TYPES
