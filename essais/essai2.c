@@ -3,8 +3,10 @@
 // Droits d'auteur (c) 2022 Antonin Hérault
 
 #include <franc/tout.h>
+#include <franc/bst/flux.h>
 
 entier principale() {
-    flottant constant PI = 3.14; 
+    imprimer("Bonjour le monde !\n");
+
     renvoyer 0;
 }
