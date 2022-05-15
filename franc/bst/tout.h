@@ -5,6 +5,8 @@
 #ifndef FRANC_BST_TOUT
 #define FRANC_BST_TOUT
 
+#include "bible.h"
+#include "chaîne.h"
 #include "flux.h"
 
 #endif // FRANC_BST_TOUT
